@@ -1,0 +1,1 @@
+decimalZeroPrepend is a jQuery plugin that helps solve an issue with validation on decimal input textboxes.  The problem this plugin is trying to solve is, if a decimal starts with a . validation fails.  This plugin will look for a starting . and prepend the . with a 0 to pass validation.
